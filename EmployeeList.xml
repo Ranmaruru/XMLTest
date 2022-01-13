@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Employee name ="Engeniy Orlov">
+    <Age>35</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+
+  <Employee name ="Sergey Petrov">
+    <Age>25</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+
+  <Employee name ="Andrey Kachalka">
+    <Age>19</Age>
+    <Programmer>False</Programmer>
+  </Employee>
+
+  <Employee name ="Vika Orlova">
+    <Age>31</Age>
+    <Programmer>False</Programmer>
+  </Employee>
+
+
+</root>
