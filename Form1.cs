@@ -22,7 +22,7 @@ namespace XML_ReaderRightVersion
         private void LoadEmployees()
         {
             XmlDocument doc = new XmlDocument();
-            doc.Load(@"C:\Users\crsedrxn\source\repos\XML_ReaderRightVersion\XML_ReaderRightVersion\EmployeeList.xml");
+            doc.Load(@"your_path");
 
             foreach(XmlNode node in doc.DocumentElement)
             {
